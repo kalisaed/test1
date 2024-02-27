@@ -118,7 +118,7 @@ nav ul li a:hover {
         align-content: flex-start;
         .content .image,
         .content .text {
-            width: 80%;
+            width: 65%;
         }
     }
     nav{
